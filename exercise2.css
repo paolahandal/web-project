@@ -1,0 +1,45 @@
+
+
+/*
+. is when you call a class
+# is when you call an id specific to only one element
+and class is for an overall thing
+within a class, you would do .name space then element
+*/
+
+
+div#about_blue{
+  background-color: #6495ED;
+  border: 3px solid black;
+  padding: 1em;
+  margin: 20px;
+}
+
+
+div#about_yellow{
+  background-color: #FFEBCD;
+  border: 3px solid black;
+  padding: 1em;
+  margin: 20px;
+}
+
+#about_blue ul {
+  color: blue;
+}
+
+#about_yellow ul {
+  color: orange
+}
+
+.important {
+  font-size: 16;
+  font-weight: bold;
+}
+
+.nav li {
+  background-color: red;
+}
+
+.nav a {
+  color: white;
+}
