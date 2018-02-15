@@ -10,7 +10,7 @@ within a class, you would do .name space then element
 
 div#about_blue{
   background-color: #6495ED;
-  border: 3px solid black;
+  border: 3px solid blue;
   padding: 1em;
   margin: 20px;
 }
@@ -18,7 +18,7 @@ div#about_blue{
 
 div#about_yellow{
   background-color: #FFEBCD;
-  border: 3px solid black;
+  border: 3px solid blue;
   padding: 1em;
   margin: 20px;
 }
@@ -28,7 +28,7 @@ div#about_yellow{
 }
 
 #about_yellow ul {
-  color: orange
+  color: blue
 }
 
 .important {
@@ -37,9 +37,9 @@ div#about_yellow{
 }
 
 .nav li {
-  background-color: red;
+  background-color: blue;
 }
 
 .nav a {
-  color: white;
+  color: blue;
 }
