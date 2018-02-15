@@ -12,7 +12,7 @@ div#about_blue{
   background-color: #6495ED;
   border: 3px solid blue;
   padding: 1em;
-  margin: 20px;
+  margin: 15px;
 }
 
 
@@ -24,7 +24,7 @@ div#about_yellow{
 }
 
 #about_blue ul {
-  color: blue;
+  color: red;
 }
 
 #about_yellow ul {
@@ -32,14 +32,8 @@ div#about_yellow{
 }
 
 .important {
-  font-size: 16;
+  font-size: 20;
   font-weight: bold;
 }
 
-.nav li {
-  background-color: blue;
-}
 
-.nav a {
-  color: blue;
-}
